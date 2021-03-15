@@ -1,16 +1,12 @@
 ---
-title: "jajeon.github.io 블로그 시작하기"
-excerpt: "Github Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "github.io 블로그 시작하기"
+excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
-
-
-cartegories:
-    - Blog
-
+categories:
+  - Blog
 tags:
-    - Blog
-
-last_modified_at : 2021-03-15T08:06:00-05:00
+  - Blog
+last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
